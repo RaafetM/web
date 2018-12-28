@@ -5,13 +5,13 @@ body{
 }
 body{
     background:url(code.jpg) no-repeat;
-    background-size: cover;
     width: 100%;
     height: 100%;
+    background-size: cover;
     display:table;
 }
 .box h1{
-    color: white;
+    text-decoration: line-through;
     text-align: left;
 }
 
@@ -50,7 +50,6 @@ body{
 
 
 .box input[type = "submit"]{
-    border: 0;
     border: 0;
     background: none;
     display: block;
